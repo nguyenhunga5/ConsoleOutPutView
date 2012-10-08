@@ -4,7 +4,7 @@ ConsoleOutPutView
 Debug console output view. Displays a console on device.
 
 
-USAGE:
+USAGE:<br>
 1) Edit in ConsoleOutPutView.h 'ApplicationName' constant according to your application executable name;<br>
 2) Edit AppDelegate file like shown below;
 
