@@ -1,6 +1,5 @@
 //
 //  ConsoleOutPutView.h
-//  SmsSender
 //
 //  Created by Denis on 10/5/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
