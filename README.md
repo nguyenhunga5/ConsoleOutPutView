@@ -24,4 +24,7 @@ AppDelegate.m
     return YES;
 }
 ```
+![ScreenShot](http://dropi.ru/KSh.png)
+
+
 Then just pull the red bar to the top and you will see the console output.
